@@ -3,3 +3,7 @@ dist
 .vite
 *.local
 .DS_Store
+.agents
+.claude
+PRD.md
+skills-lock.json
